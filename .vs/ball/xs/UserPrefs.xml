@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{B732C46D-8AB1-133D-8D1F-6583ACECC04C}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Music.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Music.cs" Line="74" Column="1" />
+      <File FileName="Assets/Scripts/Select.cs" Line="120" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ball" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.NextMind.UnitySDK.Examples PreferredExecutionTarget="c5b765a6-4c2b-4aa4-b77f-4b37c3ab7f5e" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a9f098a6-1356-4c87-a27d-2ba00f2b9ea0" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
